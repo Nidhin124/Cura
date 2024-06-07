@@ -1,6 +1,6 @@
 # cura
 
-A new Flutter project.
+Cura is a personalized health care mobile application for the elderly.
 
 ## Getting Started
 
